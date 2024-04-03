@@ -17,7 +17,9 @@
 ## Screenshots
 
 ### Home Page
-![Home Page](https://github.com/manjunath-dalavaye/QKart/assets/111382056/6c01e198-985d-420f-904a-5b75033c5b85)
+![Home Page]
+<hr>
+(https://github.com/manjunath-dalavaye/QKart/assets/111382056/6c01e198-985d-420f-904a-5b75033c5b85)
 
 ---
 

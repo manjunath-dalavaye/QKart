@@ -3,12 +3,13 @@
   
 </div>
 <h2>Technologies Used</h2>
+<h3> CSS, ReactJS, React Router, React Hooks, Debouncing, Material UI, REST Api</h3>
 <p>-> Implemented authentication, shopping cart, checkout logic, user registration with form validation, and enhanced
 UI using React Router, including a search feature for improved user interaction.</p>
 <p>->  Successfully deployed QKart React on Netlify with a 100% completion rate, ensuring optimal user experience through
 responsive design and direct sub-page access.
 </p>
-<h3> CSS, ReactJS, React Router, React Hooks, Debouncing, Material UI, REST Api</h3>
+
 <hr style="width: 25%;">
 <h2>Home Page :-</h2>
 <img width="956" alt="qkart_home" src="https://github.com/manjunath-dalavaye/QKart/assets/111382056/6c01e198-985d-420f-904a-5b75033c5b85">

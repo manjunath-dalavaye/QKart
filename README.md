@@ -1,6 +1,6 @@
 <div align="center">
   <h1>QKart</h1>
-  <hr style="width: 15%;">
+  <hr style="width: 25%;">
 </div>
 <h2>Technologies Used</h2>
 <h3> CSS, ReactJS, React Router, React Hooks, Debouncing, Material UI, REST Api</h3>

@@ -11,15 +11,12 @@
 <h2>Registration Page</h2>
 <hr>
 <img width="958" alt="qkart_reg" src="https://github.com/manjunath-dalavaye/QKart/assets/111382056/419c0d58-da40-4c8c-b403-1887af06ef16">
-<hr>
 <h2>Login Page</h2>
 <hr>
 <img width="955" alt="qkart_login" src="https://github.com/manjunath-dalavaye/QKart/assets/111382056/151e46ee-8725-4583-9bd1-1d675654fa63">
-<hr>
 <h2>QKart checkout page</h2>
 <hr>
 <img width="959" alt="qkart_checkout" src="https://github.com/manjunath-dalavaye/QKart/assets/111382056/1005f85a-29fd-4225-94a8-9ef9d047b67b">
-<hr>
 <h2>QKart Order Placed Page</h2>
 <hr>
 <img width="957" alt="qkart_tq" src="https://github.com/manjunath-dalavaye/QKart/assets/111382056/b5e0bfda-1040-408e-9011-d85aa379070c">
